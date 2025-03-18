@@ -1,0 +1,16 @@
+{
+  "accountType": "ADMIN",
+  "address": "123 Main St",
+  "allowOffersPromotion": true,
+  "aobUser": true,
+  "cityName": "Sydney",
+  "country": "BRAZIL_BR",
+  "email": "testuser@gmail.com",
+  "firstName": "John",
+  "lastName": "Doe",
+  "loginName": "testuser123",
+  "password": "Test@123",
+  "phoneNumber": "123456789",
+  "stateProvince": "NSW",
+  "zipcode": "2000"
+}
